@@ -28,5 +28,6 @@ pascals_triangle = [
 for _ in range(7):
     add_layer(pascals_triangle)
 
+# Print Triangle
 for row in pascals_triangle:
     print(row)
